@@ -9,9 +9,13 @@ Run a lightweight development server with:
 npx lite-server
 ```
 Enter your motivation for the day when prompted.
+
 Add "to-dos" by typing into the input field and clicking the green plus icon.
+
 Sort the list by All, Complete, or Uncomplete with the blue arrow drop down menu.
+
 Once completed, click the green check mark next to each to-do to scratch the item off the list.
+
 To completely remove the item, click the red trashcan icon.
 
 ## Contributing
